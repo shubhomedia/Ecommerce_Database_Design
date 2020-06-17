@@ -1,0 +1,159 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{Drawio}{online}{}
+      \name{author}{1}{}{%
+        {{hash=77e97b17ba89ef20f0a55c562df76937}{%
+           family={diagrams.net},
+           familyi={d\bibinitperiod}}}%
+      }
+      \strng{namehash}{77e97b17ba89ef20f0a55c562df76937}
+      \strng{fullhash}{77e97b17ba89ef20f0a55c562df76937}
+      \strng{bibnamehash}{77e97b17ba89ef20f0a55c562df76937}
+      \strng{authorbibnamehash}{77e97b17ba89ef20f0a55c562df76937}
+      \strng{authornamehash}{77e97b17ba89ef20f0a55c562df76937}
+      \strng{authorfullhash}{77e97b17ba89ef20f0a55c562df76937}
+      \field{sortinit}{d}
+      \field{sortinithash}{c438b3d5d027251ba63f5ed538d98af5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(accessed: 17.06.2020)}
+      \field{title}{Drawio}
+      \verb{urlraw}
+      \verb https://app.diagrams.net/
+      \endverb
+      \verb{url}
+      \verb https://app.diagrams.net/
+      \endverb
+      \keyw{draw,diagrams}
+    \endentry
+    \entry{MySQL}{online}{}
+      \name{author}{1}{}{%
+        {{hash=30162ed78b6c10f731411f2fc440c24f}{%
+           family={Oracle},
+           familyi={O\bibinitperiod}}}%
+      }
+      \strng{namehash}{30162ed78b6c10f731411f2fc440c24f}
+      \strng{fullhash}{30162ed78b6c10f731411f2fc440c24f}
+      \strng{bibnamehash}{30162ed78b6c10f731411f2fc440c24f}
+      \strng{authorbibnamehash}{30162ed78b6c10f731411f2fc440c24f}
+      \strng{authornamehash}{30162ed78b6c10f731411f2fc440c24f}
+      \strng{authorfullhash}{30162ed78b6c10f731411f2fc440c24f}
+      \field{extraname}{1}
+      \field{sortinit}{O}
+      \field{sortinithash}{ff8d4eeb5101e3cf3809959b3592d942}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(accessed: 17.06.2020)}
+      \field{title}{MySQL}
+      \verb{urlraw}
+      \verb https://dev.mysql.com/downloads/mysql/
+      \endverb
+      \verb{url}
+      \verb https://dev.mysql.com/downloads/mysql/
+      \endverb
+      \keyw{database,mysql}
+    \endentry
+    \entry{MySQL_Workbench}{online}{}
+      \name{author}{1}{}{%
+        {{hash=30162ed78b6c10f731411f2fc440c24f}{%
+           family={Oracle},
+           familyi={O\bibinitperiod}}}%
+      }
+      \strng{namehash}{30162ed78b6c10f731411f2fc440c24f}
+      \strng{fullhash}{30162ed78b6c10f731411f2fc440c24f}
+      \strng{bibnamehash}{30162ed78b6c10f731411f2fc440c24f}
+      \strng{authorbibnamehash}{30162ed78b6c10f731411f2fc440c24f}
+      \strng{authornamehash}{30162ed78b6c10f731411f2fc440c24f}
+      \strng{authorfullhash}{30162ed78b6c10f731411f2fc440c24f}
+      \field{extraname}{2}
+      \field{sortinit}{O}
+      \field{sortinithash}{ff8d4eeb5101e3cf3809959b3592d942}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(accessed: 17.06.2020)}
+      \field{title}{MySQL_WorkbenchL}
+      \verb{urlraw}
+      \verb https://www.mysql.com/products/workbench/
+      \endverb
+      \verb{url}
+      \verb https://www.mysql.com/products/workbench/
+      \endverb
+      \keyw{database-design,mysql}
+    \endentry
+    \entry{phpMyAdmin}{online}{}
+      \name{author}{1}{}{%
+        {{hash=378aee4e2233bc4ff4584b5691649b2e}{%
+           family={phpMyAdmin},
+           familyi={p\bibinitperiod}}}%
+      }
+      \strng{namehash}{378aee4e2233bc4ff4584b5691649b2e}
+      \strng{fullhash}{378aee4e2233bc4ff4584b5691649b2e}
+      \strng{bibnamehash}{378aee4e2233bc4ff4584b5691649b2e}
+      \strng{authorbibnamehash}{378aee4e2233bc4ff4584b5691649b2e}
+      \strng{authornamehash}{378aee4e2233bc4ff4584b5691649b2e}
+      \strng{authorfullhash}{378aee4e2233bc4ff4584b5691649b2e}
+      \field{sortinit}{p}
+      \field{sortinithash}{bb5b15f2db90f7aef79bb9e83defefcb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(accessed: 17.06.2020)}
+      \field{title}{phpMyAdmin}
+      \verb{urlraw}
+      \verb https://www.phpmyadmin.net/
+      \endverb
+      \verb{url}
+      \verb https://www.phpmyadmin.net/
+      \endverb
+      \keyw{database-design,mysql}
+    \endentry
+    \entry{LaTex}{online}{}
+      \name{author}{1}{}{%
+        {{hash=b9581e24acb82a3096e8155bec87401c}{%
+           family={Project},
+           familyi={P\bibinitperiod},
+           given={LaTex},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{b9581e24acb82a3096e8155bec87401c}
+      \strng{fullhash}{b9581e24acb82a3096e8155bec87401c}
+      \strng{bibnamehash}{b9581e24acb82a3096e8155bec87401c}
+      \strng{authorbibnamehash}{b9581e24acb82a3096e8155bec87401c}
+      \strng{authornamehash}{b9581e24acb82a3096e8155bec87401c}
+      \strng{authorfullhash}{b9581e24acb82a3096e8155bec87401c}
+      \field{sortinit}{P}
+      \field{sortinithash}{bb5b15f2db90f7aef79bb9e83defefcb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(accessed: 17.06.2020)}
+      \field{title}{LaTex Project}
+      \verb{urlraw}
+      \verb https://www.latex-project.org/
+      \endverb
+      \verb{url}
+      \verb https://www.latex-project.org/
+      \endverb
+      \keyw{latex,documentation}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
